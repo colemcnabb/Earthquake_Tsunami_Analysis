@@ -17,7 +17,7 @@ The goal of this analysis was to explore global earthquake and tsunami data over
 
 ## Project Structure
 - `data/`: Contains raw and cleaned datasets. Additionally, consists of queried analysis outputs for tableau visuals.
-- `Scripts/`: SQL scripts for data cleaning and analysis.
+- `scripts/`: SQL scripts for data cleaning and analysis.
 - `visuals/`: Dashboard screenshots and links to published interactive versions.
 
 ## Key Insights
