@@ -1,24 +1,27 @@
-# Earthquake and Tsunami Analysis Project
+# Earthquake and Tsunami Analysis
 
 ## Overview
 Analysis of global earthquake and tsunami data from 1950 to present, exploring patterns, impacts and relationships between these natural disasters. The analyses were performed separately to provide a clear understanding of each disaster.
 
+---
+
 ## Purpose
 The goal of this analysis was to explore global earthquake and tsunami data over the past 75 years, focusing on patterns in frequency, geographical occurrence and human impact. By cleaning and analyzing NOAA datasets, this project aims to uncover key insights into when and where these disasters occur, and which events have been the most destructive.
+
+---
 
 ## Tools Used
 - MySQL: Data cleaning and analysis.
 - Tableau: Data visualization and dashboard creation.
 - Excel: Initial data exploration.
 
+---
+
 ## Data Sources
 - Earthquake Data: NOAA Global Significant Earthquake Database (1950 - 2025)
 - Tsunami Data: NOAA Global Historical Tsunami Database (1950 - 2025)
 
-## Project Structure
-- `data/`: Contains raw and cleaned datasets. Additionally, consists of queried analysis outputs for tableau visuals.
-- `Scripts/`: SQL scripts for data cleaning and analysis.
-- `visuals/`: Dashboard screenshots and links to published interactive versions.
+---
 
 ## Key Insights
 
@@ -32,9 +35,26 @@ The goal of this analysis was to explore global earthquake and tsunami data over
     - A small number of events were responsible for the vast majority of tsunami-related casualties, highlighting the extreme impact of rare, catastrophic incidents.
     - Interestingly, there were increased historical reports during the months of March and July, pointing to a potential impact that seasonality has with tsunami prevalence.
 
-## Interactive Dashboards
+---
+
+## Tableau Dashboards
 - [Earthquake Dashboard](https://public.tableau.com/views/EarthquakeAnalysis1950-2025/EarthquakeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Tsunami Dashboard](https://public.tableau.com/views/TsunamiAnalysis1950-2025/TsunamiAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Contact
-[Cole McNabb] - [https://www.linkedin.com/in/cole-mcnabb-3b1591150/]
+---
+
+## Dashboard Previews
+
+### Tsunami Analysis
+![Tsunami Dashboard](LINK here)
+
+### Earthquake Analysis
+![Earthquake Dashboard](LINK here)
+
+---
+
+## Repository Structure
+- `data/` -> Raw and cleaned CSV
+- `Scripts/` -> SQL cleaning and analysis
+- `visuals/` -> Dashboard preview PNGs
+- `README.md` -> Project overview
