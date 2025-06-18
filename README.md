@@ -53,7 +53,7 @@
 ---
 
 ## Repository Structure
-- `data/` -> Raw and cleaned CSV
-- `Scripts/` -> SQL cleaning and analysis
-- `visuals/` -> Dashboard preview PNGs
+- `/data/` -> Raw and cleaned CSV
+- `/Scripts/` -> SQL cleaning and analysis
+- `/visuals/` -> Dashboard preview PNGs
 - `README.md` -> Project overview
