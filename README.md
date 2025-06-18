@@ -46,10 +46,10 @@ The goal of this analysis was to explore global earthquake and tsunami data over
 ## Dashboard Previews
 
 ### Tsunami Analysis
-![Tsunami Dashboard](LINK here)
+![Tsunami Dashboard](/visuals/Earthquake_Analysis.png)
 
 ### Earthquake Analysis
-![Earthquake Dashboard](LINK here)
+![Earthquake Dashboard](/visuals/Tsunami_Analysis.png)
 
 ---
 
