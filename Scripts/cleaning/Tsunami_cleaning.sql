@@ -1,11 +1,10 @@
 -- ====================================================
 -- Tsunami Data Cleaning Script
--- Source: NOAA Global Significant Earthquake Database
+-- Source: NOAA Global Significant Tsunami Database
 -- Purpose: Clean and prepare tsunami data for analysis
 -- Author: Cole McNabb
 -- Date: March 15th, 2025
 -- ====================================================
-
 
 USE earthquake_;
 
